@@ -1,4 +1,4 @@
-A Simple Population Simulation
+<title>A Simple Population Simulation</title>
 
 Genes are floating point numbers
 
