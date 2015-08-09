@@ -2,7 +2,7 @@
 
 Genes are floating point numbers
 
-No mutations or mating occurs between organisms. 
+Mating occurs between organisms of same species. 
 
 When a population dies out it is restarted with random genes. Populations with better genes live longer.
 
